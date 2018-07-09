@@ -1,0 +1,18 @@
+baseURL = "https://chswei.github.io/"
+languageCode = "zh-tw"
+title = "Chswei Blog"
+paginate = 5 
+Copyright = "All rights reserved - 2018"
+canonifyurls = true 
+
+[[menu.main]] #页面菜单参数
+  name = "Chswei Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
