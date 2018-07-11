@@ -1,12 +1,33 @@
 baseURL = "https://chswei.github.io/"
 languageCode = "zh-tw"
-title = "Chswei Blog"
-paginate = 5 
+title = "Random Forest"
+paginate = 5    #分頁每頁記錄數
 Copyright = "All rights reserved - 2018"
+DisqusShortname = "chswei"    #評論時顯示的名字
 canonifyurls = true 
 
-[[menu.main]] #页面菜单参数
-  name = "Chswei Blog"
+[params]
+  description = "人生最終的夢想是隱居山林"    #副標題
+  cover = "images/forest.jpg"    #封面照片
+  author = "chswei"    #文章作者
+  authorlocation = "Taiwan"    #作者位置
+  authorwebsite = "https://chswei.github.io/"    #作者站點
+  bio= "醫學生，最近對資料科學產生興趣"    #作者簡介
+  # logo = "images/Einstan.jpg"    #作者頭像
+  # googleAnalyticsUserID = "UA-79101-12" 
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "chswei"    #GitHub用戶名
+  twitterName = "wujiyaker" 
+  # facebookName = ""
+  # linkedinName = ""    #LinkedIn用戶名
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false    #是否顯示Hugo水印
+  [params.social]
+  #   linkedin = "https://cn.linkedin.com/in/zifeng"
+
+[[menu.main]]    #頁面菜單參數
+  name = "My Blog"
   weight = -120
   identifier = "blog"
   url = "/"
