@@ -6,6 +6,10 @@ Copyright = "All rights reserved - 2018"
 DisqusShortname = "chswei"    #評論時顯示的名字
 canonifyurls = true 
 
+pygmentsCodefences = true     #高亮markdown的代碼塊
+pygmentsCodefencesGuessSyntax = true    #高亮markdown中沒有標注語言的代碼塊
+pygmentsStyle = 'monokai'    #高亮主題
+
 [params]
   description = "人生最終的夢想是隱居山林"    #副標題
   cover = "images/forest.jpg"    #封面照片
