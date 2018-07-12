@@ -1,7 +1,7 @@
 ---
 title: "在 GitHub 部署 Hugo 靜態網站"
 date: 2018-07-12T22:36:43+08:00
-draft: true
+draft: false
 share: true
 ---
 ![hugo-1](/images/hugo/hugo-1.png)
