@@ -3,7 +3,7 @@ languageCode = "zh-tw"
 title = "Random Forest"
 paginate = 5    #分頁每頁記錄數
 Copyright = "All rights reserved - 2018"
-DisqusShortname = "chs_wei"    #評論時顯示的名字
+DisqusShortname = "chswei"    #評論時顯示的名字
 canonifyurls = true 
 
 pygmentsCodefences = true     #高亮markdown的代碼塊
