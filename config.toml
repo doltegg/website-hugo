@@ -2,7 +2,8 @@ baseURL = "https://chswei.github.io/"
 languageCode = "zh-tw"
 title = "Random Forest"
 paginate = 5    #分頁每頁記錄數
-Copyright = "All rights reserved - 2018"
+pluralizelisttitles = false
+Copyright = "Copyright © 2018"
 DisqusShortname = "chswei"    #評論時顯示的名字
 canonifyurls = true 
 
