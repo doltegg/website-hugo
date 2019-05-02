@@ -1,4 +1,4 @@
-baseURL = "https://chswei.github.io/"
+baseURL = "https://doltegg.github.io/"
 languageCode = "zh-tw"
 title = "Random Forest"
 paginate = 5    #分頁每頁記錄數
@@ -16,7 +16,7 @@ pygmentsStyle = 'monokai'    #高亮主題
   cover = "images/forest.jpg"    #封面照片
   author = "chswei"    #文章作者
   authorlocation = "Taiwan"    #作者位置
-  authorwebsite = "https://chswei.github.io/"    #作者站點
+  authorwebsite = "https://doltegg.github.io/"    #作者站點
   bio= "醫學生，最近對資料科學產生興趣"    #作者簡介
   # logo = "images/Einstan.jpg"    #作者頭像
   googleAnalyticsUserID = "UA-122220812-1" 
